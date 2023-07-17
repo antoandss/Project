@@ -10,6 +10,8 @@ ContentDetails – This section will only appear once a ticket is selected.
 
 Footer – includes contact information.
 
+
+
 MainContent Section List:
 
 Upon landing into the web page, the user should have a list of tickets presented.
