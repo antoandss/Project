@@ -1,0 +1,15 @@
+.register-container {
+    grid-area: signUp;
+    background-color: #f0e8f5;
+}
+
+.register-content {
+    margin-top: 40px;
+}
+
+.register-content > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

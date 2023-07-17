@@ -1,0 +1,11 @@
+.signUp-page {
+    display: grid; 
+    grid-auto-rows: 1fr; 
+    grid-template-columns: 1fr 1fr; 
+    grid-template-rows: 0.2fr 2.6fr 0.2fr; 
+    gap: 0px 0px; 
+    grid-template-areas: 
+    "navbar navbar"
+    "signUp signUp"
+    "footer footer"; 
+}
