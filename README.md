@@ -8,6 +8,7 @@ ContentDetails – This section will only appear once a ticket is selected.
 
 Footer – includes contact information. 
 
+
  
 
 MainContent Section List: 
@@ -23,6 +24,7 @@ State
 
 When a user scrolls to the last ticket, 5 more should be loaded (only if there are more ticket to be displayed). 
 
+
  
 
 MainContent Section Form: 
@@ -36,6 +38,8 @@ Created Date should be auto generated.
 Short Description and Description should be mandatory. 
 
 
+
+
 MainContent Section Filter: 
 
 Alongside the list of tickets, there should be appropriate filtering options, such as:
@@ -44,6 +48,8 @@ Assigned to
 Priority 
 State 
 Created on 
+
+
 
  
 ContentDetails form: 
@@ -54,6 +60,8 @@ This form will have two buttons: Submit and Update, based on the type of form th
 Example: 
 When we want to add a ticket, the form should be empty, and the user will write the desired information into the input fields. In that case, the only button present should be Submit. 
 
+
+
  
 ContentDetails Interactions: 
 
@@ -61,6 +69,9 @@ This section will be interactive with the MainContent in two ways:
 
 When creating new ticket 
 When updating existing ticket 
+
+
+
 
 Ticket Creation: 
 
